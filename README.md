@@ -14,12 +14,13 @@ local function Kurama(code)
     local JS = Kurama.GetAll()
 end
 ```
-
-My Projects :
-
-* https://discord.gg/havenfr
-* https://discord.gg/kurama
-* https://temple-kurama.com/
-* https://virtualserv.fr
-* https://lesheitan.net
-* https://memocord.me
+```css
+MyProjects {
+    https://discord.gg/havenfr : Discord Haven Community;
+    https://discord.gg/kurama : Discord Temple de Kurama;
+    https://temple-kurama.com/ : Site du Discord Kurama;
+    https://virtualserv.fr : Site Hebergement;
+    https://lesheitan.net : Site test;
+    https://memocord.me : Site de Meme;
+}
+```
