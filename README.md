@@ -16,11 +16,11 @@ end
 ```
 ```css
 .MyProjects {
-    @import url("https://discord.gg/havenfr");
-    @import url("https://discord.gg/kurama");
-    @import url("https://temple-kurama.com/");
-    @import url("https://virtualserv.fr");
-    @import url("https://lesheitan.net");
-    @import url("https://memocord.me");
+    --Playing: url("https://discord.gg/havenfr");
+    --Playing: url("https://discord.gg/kurama");
+    --Playing: url("https://temple-kurama.com/");
+    --Playing: url("https://virtualserv.fr");
+    --Playing: url("https://lesheitan.net");
+    --Playing: url("https://memocord.me");
 }
 ```
