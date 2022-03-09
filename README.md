@@ -1,4 +1,4 @@
-```
+``` lua
 local function Kurama(code)
   local Lua = Kurama.GetAll()
   local Glua = Kurama.GetAll()
