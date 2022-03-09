@@ -15,7 +15,7 @@ local function Kurama(code)
 end
 ```
 ```css
-MyProjects {
+.MyProjects {
     url("https://discord.gg/havenfr");
     url("https://discord.gg/kurama");
     url("https://temple-kurama.com/");
