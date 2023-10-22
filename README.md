@@ -27,8 +27,6 @@ end
 <h1 align="center">Projects</h1>
   <img width="50" align="left" src="https://github.com/Kurama250/Kurama250/blob/main/img/discord.png">
     <h3><a href="https://discord.gg/havenfr">Haven Community</a></h3><br>
-  <img width="50" align="left" src="https://github.com/Kurama250/Kurama250/blob/main/img/discord.png">
-    <h3><a href="https://discord.gg/kurama">Discord Kurama</a></h3><br>
   <img width="50" align="left" src="https://github.com/Kurama250/Kurama250/blob/main/img/virtual.png">
     <h3><a href="https://virtualserv.fr">Virtualserv.fr</a></h3><br>
   <img width="50" align="left" src="https://github.com/Kurama250/Kurama250/blob/main/img/kurama.jpg">
