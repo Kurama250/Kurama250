@@ -4,7 +4,7 @@
 ```js
 const Code = ["Lua", "GLua", "Html", "Css", "Python", "Node.js", "Javascript", "Shell", "Sys-admin"];
 const Tools = ["Github", "Visual Studio Code", "Sublime Text 4", "Cisco", "Nginx", "Apache2", "Npm"];
-const Systems = ["Windows", "Debian", "Ubuntu", "Kali linux"];
+const Systems = ["Windows", "Debian", "Ubuntu", "Kali linux", "Red Hat", "Raspberry PiOS (Raspbian)"];
 
 function getRandomElement(array) {
     const randomIndex = Math.floor(Math.random() * array.length);
