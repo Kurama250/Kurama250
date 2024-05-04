@@ -2,8 +2,8 @@
 <h1 align="center">Languages | Tools | Systems</h1>
 
 ```js
-const Code = ["Lua", "GLua", "Html", "Css", "Python", "Node.js", "Javascript", "Shell", "Sys-admin"];
-const Tools = ["Github", "Visual Studio Code", "Sublime Text 4", "Cisco", "Nginx", "Apache2", "Npm"];
+const Info = ["Lua", "GLua", "Html", "Css", "Python", "Node.js", "Javascript", "Shell", "Sys-admin"];
+const Tools = ["Github", "Visual Studio Code", "Sublime Text 4", "Cisco", "Nginx", "Apache2", "Npm", "Iptables"...];
 const Systems = ["Windows", "Debian", "Ubuntu", "Kali linux", "Red Hat", "Raspberry PiOS (Raspbian)"];
 
 function getRandomElement(array) {
@@ -11,11 +11,11 @@ function getRandomElement(array) {
     return array[randomIndex];
 }
 
-const chooseCode = getRandomElement(Code);
+const chooseInfo = getRandomElement(Info);
 const chooseTools = getRandomElement(Tools);
 const chooseSystems = getRandomElement(Systems);
 
-console.log("Programming Language : " + chooseCode);
+console.log("Programming Language : " + chooseInfo);
 console.log("Tools : " + chooseTools);
 console.log("Operating Systems : " + chooseSystems);
 ```
