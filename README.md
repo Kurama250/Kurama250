@@ -3,7 +3,7 @@
 
 ```js
 const Info = ["Lua", "GLua", "Html", "Css", "Python", "Node.js", "Javascript", "Shell", "Sys-admin"];
-const Tools = ["Github", "Visual Studio Code", "Sublime Text 4", "Cisco", "Nginx", "Apache2", "Npm", "Iptables"...];
+const Tools = ["Github", "Visual Studio Code", "Sublime Text 4", "Cisco", "Nginx", "Apache2", "Npm", "Iptables", "..."];
 const Systems = ["Windows", "Debian", "Ubuntu", "Kali linux", "Red Hat", "Raspberry PiOS (Raspbian)"];
 
 function getRandomElement(array) {
