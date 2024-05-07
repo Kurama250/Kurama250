@@ -23,7 +23,7 @@ console.log("Operating Systems : " + chooseSystems);
   <img width="50" align="left" src="https://github.com/Kurama250/Kurama250/blob/main/img/kurama.jpg">
     <h3><a href="https://kurama.info">My Website</a></h3><br>
   <img width="50" align="left" src="https://github.com/Kurama250/Kurama250/blob/main/img/discord.png">
-    <h3><a href="https://discord.gg/havenfr">Haven Community</a></h3><br>
+    <h3><a href="https://discord.gg/haven-community-719636606105026641">Haven Community</a></h3><br>
 <h1 align="center">My Stats</h1>
 
 <p align="center">
