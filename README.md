@@ -29,9 +29,10 @@
     <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white" alt="Electron">
     <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white" alt="Axios">
     <img src="https://img.shields.io/badge/PyInstaller-3776AB?style=flat-square&logo=python&logoColor=white" alt="PyInstaller"><br>
+    <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white" alt="Cloudflare">
     <img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?style=flat-square&logo=phpmyadmin&logoColor=white" alt="phpMyAdmin">
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB">
-    <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" alt="MariaDB">
+    <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" alt="MariaDB"> ...
 </h4>
 
 <h4 align="center">🖥️ Operating Systems & Server Management</h4>
@@ -52,10 +53,10 @@
   <img width="50" align="left" src="https://github.com/Kurama250/Kurama250/blob/main/img/kurama.jpg">
     <h3><a href="https://kurama.info">My Website</a></h3><br>
   <img width="50" align="left" src="https://github.com/Kurama250/Kurama250/blob/main/img/discord.png">
-    <h3><a href="https://discord.gg/haven-community-719636606105026641">Haven Community</a></h3><br>
+    <h3><a href="https://discord.gg/haven-community-719636606105026641">Haven Community</a></h3>
 
 <h1 align="center">My Stats</h1>
 <p align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kurama250&layout=compact&langs_count=8&theme=radical" alt="Stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kurama250&theme=radical" alt="Stats">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Kurama250&layout=compact&langs_count=8&theme=radical" alt="Languages">
 </p>
