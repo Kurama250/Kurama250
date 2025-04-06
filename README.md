@@ -38,15 +38,10 @@
 <h4 align="center">🖥️ Operating Systems & Server Management</h4>
 <h4 align="center">
     <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white" alt="Windows">
-    <img src="https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white" alt="Debian">
-    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" alt="Ubuntu">
-    <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" alt="Kali Linux">
-    <img src="https://img.shields.io/badge/Red%20Hat-EE0000?style=flat-square&logo=redhat&logoColor=white" alt="Red Hat">
-    <img src="https://img.shields.io/badge/Raspberry%20PiOS-C51A4A?style=flat-square&logo=raspberrypi&logoColor=white" alt="Raspberry PiOS"><br>
-    <img src="https://img.shields.io/badge/Pop!_OS-48B9C7?style=flat-square&logo=popos&logoColor=white" alt="Pop! OS">
-    <img src="https://img.shields.io/badge/Parrot%20OS-50C878?style=flat-square&logo=linux&logoColor=white" alt="Parrot OS">
-    <img src="https://img.shields.io/badge/Proxmox-000000?style=flat-square&logo=proxmox&logoColor=white" alt="Proxmox">
-    <img src="https://img.shields.io/badge/Pterodactyl-8F7B71?style=flat-square&logo=pterodactyl&logoColor=white" alt="Pterodactyl">
+    <img src="https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=yellow" alt="Linux">
+    <img src="https://img.shields.io/badge/Raspberry%20Pi%20OS-A22846?style=flat-square&logo=raspberrypi&logoColor=white" alt="Raspberry Pi OS">
+    <img src="https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white" alt="Proxmox">
+    <img src="https://img.shields.io/badge/Pterodactyl-181b29?style=flat-square&logo=pterodactyl&logoColor=white" alt="Pterodactyl">
 </h4>
 
 <h1 align="center">My Projects</h1>
