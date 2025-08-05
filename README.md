@@ -42,6 +42,7 @@
     <img src="https://img.shields.io/badge/Raspberry%20Pi%20OS-A22846?style=flat-square&logo=raspberrypi&logoColor=white" alt="Raspberry Pi OS">
     <img src="https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white" alt="Proxmox">
     <img src="https://img.shields.io/badge/Pterodactyl-181b29?style=flat-square&logo=pterodactyl&logoColor=white" alt="Pterodactyl">
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
 </h4>
 
 <h1 align="center">My Projects</h1>
