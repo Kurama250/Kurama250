@@ -16,9 +16,7 @@
 
 </div>
 
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e2327,100:5865F2&height=2&section=header&width=100%" width="100%"/>
-
 
 <div align="center">
 
@@ -97,9 +95,7 @@
 </tr>
 </table>
 
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e2327,100:5865F2&height=2&section=header&width=100%" width="100%"/>
-
 
 <div align="center">
 
@@ -160,9 +156,7 @@ Secure whitelist for server superadmins.
 
 </table>
 
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e2327,100:5865F2&height=2&section=header&width=100%" width="100%"/>
-
 
 <div align="center">
 
@@ -177,15 +171,11 @@ Secure whitelist for server superadmins.
 
 </div>
 
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e2327,100:5865F2&height=2&section=header&width=100%" width="100%"/>
-
 
 <div align="center">
 
 <img src="https://github.githubassets.com/assets/galaxy-brain-default-847262c21056.png" width="32" title="Galaxy Brain"/>
 <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="32" title="Pull Shark"/>
-
-<sub>© 2023 - 2026 Kurama</sub>
 
 </div>
